@@ -9,7 +9,7 @@ Installation
 ============
 
 ```
-pip install nova
+pip install wordster
 ```
 
 
